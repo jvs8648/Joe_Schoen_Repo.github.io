@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h2 {
   width: 400px;
   height: 80px;
@@ -5,3 +6,12 @@ h2 {
   border: 10px solid gray;
   background-color: blue;
 }
+=======
+h2 {
+  width: 400px;
+  height: 80px;
+  padding: 10px;
+  border: 10px solid gray;
+  background-color: blue;
+}
+>>>>>>> e4661f13d483ab84a8156b0f045f11fb43217b11

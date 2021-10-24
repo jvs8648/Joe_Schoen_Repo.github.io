@@ -1,0 +1,28 @@
+body{
+  background-color: blue;
+  display: grid;
+  grid-gap: 1em;
+}
+
+#Heading01{
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  font-family: "Papyrus";
+  order: 1;
+}
+
+#ResponseHeading{
+display: flex;
+justify-content: center;
+font-size: 40px;
+font-family: "Papyrus";
+}
+
+#Response{
+  display: flex;
+  justify-content: center;
+  background-color: orange;
+  font-size: 20px;
+  font-family: "Papyrus";
+}

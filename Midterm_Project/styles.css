@@ -1,0 +1,453 @@
+body.title_slide{
+  background-image: url('dark_woods_title.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.title_slide{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 60px;
+  color: black;
+}
+
+#WireframeLink{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+}
+
+h3.title_slide{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 40px;
+  color: white;
+}
+
+body.path_1{
+  background-image: url('path_split.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+
+  h1.path_1{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+  }
+
+#FirstChoice{
+display: flex;
+justify-content: center;
+font-family: Papyrus;
+font-size: 20px;
+}
+
+body.path_1_left_1{
+  background-image: url('dark_path.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_1{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+#TurnAround{
+display: flex;
+justify-content: center;
+font-family: Papyrus;
+font-size: 20px;
+color: white;
+}
+
+body.path_1_left_2{
+  background-image: url('darker_woods.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_2{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+#Proceed{
+display: flex;
+justify-content: center;
+font-family: Papyrus;
+font-size: 20px;
+}
+
+body.path_1_left_3{
+  background-image: url('uh_oh.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_3{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+#uh-oh{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_left_4{
+  background-image: url('uh_oh.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_4{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+#BehindYou{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_left_5{
+  background-image: url('shadow_man.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_5{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: black;
+}
+
+#RUN{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus
+  font-size: 20px;
+  color: white;
+}
+body.path_1_left_6{
+  background-image: url('scary_woods.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_6{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+#AAA{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_left_7{
+  background-image: url('hiker_guy.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+
+  h1.path_1_left_7{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+  }
+
+#home{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  colro: white;
+}
+
+body.path_1_left_8{
+  background-image: url('not_so_scary_woods.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_8{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+#maybe_ask{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_left_ask{
+  background-image: url('not_so_scary_woods.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_ask{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+h2.path_1_left_ask{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 40px;
+  color: white;
+}
+
+body.path_1_left_ask_end{
+  background-image: url('distant_shadow.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_ask_end{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_left_no_ask{
+  background-image: url('not_so_scary_woods.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_left_no_ask{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+#next{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_left_no_ask_end{
+  background: black;
+}
+
+h1.path_1_left_no_ask_end{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: Papyrus;
+  font-size: 60px;
+  color: white;
+}
+
+body.path_1_right_1{
+  background-image: url('path_split.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_right_1{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_right_2{
+  background-image: url('darker_woods.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_right_2{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_right_3{
+  background-image: url('uh_oh.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_right_3{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+body.path_1_right_4{
+  background-image: url('uh_oh.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_right_4{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_right_5{
+  background-image: url('shadow_man.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.path_1_right_5{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+#RUNFIGHT{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: black;  
+}
+
+body.defend{
+  background-image: url('shadow_man.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.defend{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+#SWING{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.path_1_right_swing{
+  background-color: black;
+}
+
+h1.path_1_right_swing{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+#Check{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+  color: white;
+}
+
+body.right_end{
+  background-image: url('sitck_figure_guy_2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1.right_end{
+  display: flex;
+  justify-content: center;
+  font-family: Papyrus;
+  font-size: 20px;
+}
+
+#the_end{
+  display: flex;
+  justify-content: center;
+  font-size: Papyrus;
+  font-size: 20px;
+  color: white;
+}

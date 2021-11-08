@@ -5,6 +5,10 @@ body.title_slide{
   background-size: cover;
 }
 
+figure.play_audio{
+  display: none;
+}
+
 h1.title_slide{
   display: flex;
   justify-content: center;

@@ -16,7 +16,7 @@ h1.title_slide{
   justify-content: center;
   font-family: "Rock Salt";
   font-weight: bold;
-  font-size: 40px;
+  font-size: 60px;
   color: black;
 }
 
@@ -30,7 +30,7 @@ h1.title_slide{
 h3.title_slide{
   display: flex;
   justify-content: center;
-  font-family: Papyrus;
+  font-family: "Rock Salt";
   font-weight: bold;
   font-size: 40px;
   color: black;
@@ -235,7 +235,7 @@ h1.path_1_left_8{
 #maybe_ask{
   display: flex;
   justify-content: center;
-  font-family: Papyrus;
+  font-family: "Rock Salt";
   font-size: 30px;
   font-weight: bold;
   color: white;

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Rock+Salt&display=swap');
+
 body.title_slide{
   background-image: url('dark_woods_title.jpg');
   background-repeat: no-repeat;
@@ -29,6 +31,7 @@ h3.title_slide{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
+  font-weight: bold;
   font-size: 40px;
   color: white;
 }

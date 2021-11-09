@@ -13,6 +13,7 @@ h1.title_slide{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
+  font-wieght: bold;
   font-size: 60px;
   color: black;
 }

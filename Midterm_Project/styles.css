@@ -164,12 +164,12 @@ h1.path_1_left_5{
   color: black;
 }
 
-#RUN{
+h2.path_1_left_5{
   display: flex;
   justify-content: center;
   font-family: Papyrus
-  font-size: 40px;
-  color: white;
+  font-size: 30px;
+  color: black;
 }
 body.path_1_left_6{
   background-image: url('scary_woods.jpg');

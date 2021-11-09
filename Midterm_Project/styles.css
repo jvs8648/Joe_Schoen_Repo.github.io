@@ -453,7 +453,7 @@ h1.right_end{
   font-size: 40px;
 }
 
-#the_end{
+h2.right_end{
   display: flex;
   justify-content: center;
   font-size: Papyrus;

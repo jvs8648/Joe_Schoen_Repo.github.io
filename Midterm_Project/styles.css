@@ -23,7 +23,7 @@ h1.title_slide{
 #WireframeLink{
   display: flex;
   justify-content: center;
-  font-family: Papyrus;
+  font-family: "Rock Salt";
   font-size: 20px;
 }
 
@@ -47,7 +47,7 @@ body.path_1{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 60px;
   color: white;
   }
 
@@ -55,7 +55,7 @@ body.path_1{
 display: flex;
 justify-content: center;
 font-family: Papyrus;
-font-size: 20px;
+font-size: 40px;
 }
 
 body.path_1_left_1{
@@ -69,7 +69,7 @@ h1.path_1_left_1{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 60px;
   color: white;
 }
 

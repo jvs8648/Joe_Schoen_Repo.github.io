@@ -30,6 +30,7 @@ h1.title_slide{
 h3.title_slide{
   display: flex;
   justify-content: center;
+  background-color: black;
   font-family: Papyrus;
   font-weight: bold;
   font-size: 40px;

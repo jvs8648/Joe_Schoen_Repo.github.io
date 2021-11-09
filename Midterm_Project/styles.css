@@ -456,7 +456,7 @@ h1.right_end{
 h2.right_end{
   display: flex;
   justify-content: center;
-  font-size: Papyrus;
+  font-family: Papyrus;
   font-size: 40px;
   color: black;
 }

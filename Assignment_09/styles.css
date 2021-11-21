@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+
+#Title{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    color: black;
+
+}
+
+
+#Response{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    color: black;
+}
+
+#Return_Button{
+    text-align: center;
+}

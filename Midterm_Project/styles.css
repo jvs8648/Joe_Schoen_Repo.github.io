@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Rock+Salt&display=swap');
+
 body.title_slide{
   background-image: url('dark_woods_title.jpg');
   background-repeat: no-repeat;
@@ -8,7 +10,7 @@ body.title_slide{
 h1.title_slide{
   display: flex;
   justify-content: center;
-  font-family: Papyrus;
+  font-family: "Rock Salt";
   font-size: 60px;
   color: black;
 }
@@ -16,7 +18,7 @@ h1.title_slide{
 #WireframeLink{
   display: flex;
   justify-content: center;
-  font-family: Papyrus;
+  font-family: "Rock Salt";
   font-size: 20px;
 }
 
@@ -154,6 +156,10 @@ h1.path_1_left_5{
   font-family: Papyrus;
   font-size: 20px;
   color: black;
+}
+
+figure.play_audio{
+  display: none;
 }
 
 #RUN{
@@ -384,7 +390,7 @@ h1.path_1_right_5{
   justify-content: center;
   font-family: Papyrus;
   font-size: 20px;
-  color: black;  
+  color: black;
 }
 
 body.defend{

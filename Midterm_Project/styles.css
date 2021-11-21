@@ -7,10 +7,18 @@ body.title_slide{
   background-size: cover;
 }
 
+figure.play_audio{
+  display: none;
+}
+
 h1.title_slide{
   display: flex;
   justify-content: center;
   font-family: "Rock Salt";
+<<<<<<< HEAD
+=======
+  font-weight: bold;
+>>>>>>> 7de260029e64e7ba3f5c84f4d846286828f0e194
   font-size: 60px;
   color: black;
 }
@@ -25,9 +33,10 @@ h1.title_slide{
 h3.title_slide{
   display: flex;
   justify-content: center;
-  font-family: Papyrus;
+  font-family: "Rock Salt";
+  font-weight: bold;
   font-size: 40px;
-  color: white;
+  color: black;
 }
 
 body.path_1{
@@ -41,7 +50,7 @@ body.path_1{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 60px;
   color: white;
   }
 
@@ -49,7 +58,7 @@ body.path_1{
 display: flex;
 justify-content: center;
 font-family: Papyrus;
-font-size: 20px;
+font-size: 40px;
 }
 
 body.path_1_left_1{
@@ -63,7 +72,7 @@ h1.path_1_left_1{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -71,7 +80,7 @@ h1.path_1_left_1{
 display: flex;
 justify-content: center;
 font-family: Papyrus;
-font-size: 20px;
+font-size: 40px;
 color: white;
 }
 
@@ -86,7 +95,7 @@ h1.path_1_left_2{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -94,7 +103,7 @@ h1.path_1_left_2{
 display: flex;
 justify-content: center;
 font-family: Papyrus;
-font-size: 20px;
+font-size: 40px;
 }
 
 body.path_1_left_3{
@@ -108,7 +117,7 @@ h1.path_1_left_3{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -116,7 +125,7 @@ h1.path_1_left_3{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -131,7 +140,7 @@ h1.path_1_left_4{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -139,7 +148,7 @@ h1.path_1_left_4{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -154,20 +163,24 @@ h1.path_1_left_5{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: black;
 }
 
+<<<<<<< HEAD
 figure.play_audio{
   display: none;
 }
 
 #RUN{
+=======
+h2.path_1_left_5{
+>>>>>>> 7de260029e64e7ba3f5c84f4d846286828f0e194
   display: flex;
   justify-content: center;
-  font-family: Papyrus
-  font-size: 20px;
-  color: white;
+  font-family: Papyrus;
+  font-size: 30px;
+  color: black;
 }
 body.path_1_left_6{
   background-image: url('scary_woods.jpg');
@@ -180,7 +193,7 @@ h1.path_1_left_6{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -188,7 +201,7 @@ h1.path_1_left_6{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -203,7 +216,7 @@ body.path_1_left_7{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
   }
 
@@ -211,7 +224,7 @@ body.path_1_left_7{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   colro: white;
 }
 
@@ -226,15 +239,16 @@ h1.path_1_left_8{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
 #maybe_ask{
   display: flex;
   justify-content: center;
-  font-family: Papyrus;
+  font-family: "Rock Salt";
   font-size: 20px;
+  font-weight: bold;
   color: white;
 }
 
@@ -249,7 +263,7 @@ h1.path_1_left_ask{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -272,7 +286,7 @@ h1.path_1_left_ask_end{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 60px;
   color: white;
 }
 
@@ -287,14 +301,14 @@ h1.path_1_left_no_ask{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 #next{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -312,7 +326,7 @@ h1.path_1_left_no_ask_end{
 }
 
 body.path_1_right_1{
-  background-image: url('path_split.jpg');
+  background-image: url('dark_path.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -322,7 +336,7 @@ h1.path_1_right_1{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -337,7 +351,7 @@ h1.path_1_right_2{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -352,7 +366,7 @@ h1.path_1_right_3{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 body.path_1_right_4{
@@ -366,7 +380,7 @@ h1.path_1_right_4{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -381,16 +395,21 @@ h1.path_1_right_5{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
-  color: white;
+  font-size: 40px;
+  color: black;
 }
 
 #RUNFIGHT{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
+<<<<<<< HEAD
   font-size: 20px;
   color: black;
+=======
+  font-size: 30px;
+  color: black;  
+>>>>>>> 7de260029e64e7ba3f5c84f4d846286828f0e194
 }
 
 body.defend{
@@ -404,15 +423,15 @@ h1.defend{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
-  color: white;
+  font-size: 40px;
+  color: black;
 }
 
 #SWING{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -424,7 +443,7 @@ h1.path_1_right_swing{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -432,7 +451,7 @@ h1.path_1_right_swing{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
   color: white;
 }
 
@@ -447,13 +466,13 @@ h1.right_end{
   display: flex;
   justify-content: center;
   font-family: Papyrus;
-  font-size: 20px;
+  font-size: 40px;
 }
 
-#the_end{
+h2.right_end{
   display: flex;
   justify-content: center;
-  font-size: Papyrus;
-  font-size: 20px;
-  color: white;
+  font-family: Papyrus;
+  font-size: 40px;
+  color: black;
 }

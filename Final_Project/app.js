@@ -8,7 +8,7 @@ document.getElementById("Boba_Fett_Name").onclick=function (){
 };
 
 document.getElementById("Count_Dooku_Picture").onclick=function (){
-    location.href="file:///C:/Users/Joseph/Web_Class_C_Directory/Joe_Schoen_Repo.github.io/Final%20Project/count_dooku.html";
+    location.href="count_dooku.html";
 };
 
 document.getElementById("Count_Dooku_Name").onclick=function (){

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device, initial-scale=1.0">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <title>
+      Darth Sion
+    </title>
+    <body style="background-image: url(red_gradient_background.jpg); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;">
+      <figure class="play audio">
+        <audio controls src="Sion_Voice.mp3" autoplay></audio>
+      </figure>
+      <div class="container">
+        <div class="page-header" style="font-family: Orbitron; font-size: 25px; color: black; text-align: center;">
+          Darth Sion
+        </div>
+        <div class="jumbotron" style="background-color: grey; font-family: Orbitron; font-size: 20px; color: black; text-align: center;">
+          "There is no life without the Force. The Force is a blade; without it, one is defenseless."
+          <br>
+          <br>
+          -Darth Sion
+        </div>
+        <br>
+        <div class="jumbotron" style="background-color: grey; font-family: Orbitron; font-size: 20px; color: black; text-align: center;">
+          <p>
+            BREAKING NEWS&nbsp;-&nbsp;MAN LITERALLY TOO ANGRY TO DIE
+          </p>
+          <br>
+          <p>
+            This pretty much sums up Darth Sion in one nice sentence. An apprentice to Darth Traya, Sion was a powerful Dark Lord of the Sith and a formidable foe to the Jedi. During a heated battle, Sion was struck down by a Jedi Knight.  Believing him to be dead, the Jedi began to exit, but was shocked to see Sion get back up again and was killed by their seemingly undead foe.
+          </p>
+          <br>
+          <p>
+            Sion was able to use his anger and hatred to fuel the Dark Side of the Force in order to keep his body from falling apart, making it impossible for him to die. This, however, came with the consequence of him being in immense pain from constantly holding his body together, but he saw this as a fair price for immortaility. Giving himself the name "Lord of Pain", Darth Sion used his ability to his advantage and was responsoble for the death of many Jedi Knights.
+          </p>
+          <br>
+          <p>
+            Eventually, during a battle with a Jedi Knight, Sion was convinved to let go of his body and free himself of his never-ending pain. Sion found peace and allowed himself to die, glad to leave the mortal world behind.
+          </p>
+        </div>
+      </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </body>
+</html>

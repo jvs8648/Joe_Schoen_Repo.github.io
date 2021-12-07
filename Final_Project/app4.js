@@ -1,6 +1,6 @@
 //Noncanon Light/Dark choice - Code will take user to the page of the section they click on
 document.getElementById("Noncanon_Light_Button").onclick=function (){
-    location.href=" ";
+    location.href="noncanon_light_side_roster.html";
 };
 
 document.getElementById("Noncanon_Dark_Button").onclick=function (){

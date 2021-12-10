@@ -20,7 +20,7 @@ document.getElementById("Kao_Cen_Darach_Picture").onclick=function (){
 };
 
 document.getElementById("Kao_Cen_Darach_Name").onclick=function (){
-    location.href="Kao_Cen_Darach.html";
+    location.href="kao_cen_darach.html";
 };
 
 document.getElementById("Kreia_Picture").onclick=function (){

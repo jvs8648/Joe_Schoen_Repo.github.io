@@ -1,5 +1,6 @@
-var audio= document.getElementById("menu")
+const audio= document.getElementById('menu');
 
-document.getElementById("lets_go_button").onclick=function (){
-    audio.play();
-};
+const buttonPlay=document.getElementById('lets_go_button');
+buttonPlay.addEventListerner('click', function(){
+  aduio.play();
+});

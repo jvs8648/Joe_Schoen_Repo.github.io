@@ -2,11 +2,11 @@
 var audio=document.getElementById("menu")
 
 document.getElementById("Canon_Button").onclick=function (){
-  menu.play();
+  audio.play();
   location.href="canon_light_dark.html";
 };
 
 document.getElementById("Noncanon_Button").onclick=function (){
-    menu.play();
+    audio.play();
     location.href="legends_light_dark.html";
 };

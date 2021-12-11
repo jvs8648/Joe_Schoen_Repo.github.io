@@ -1,3 +1,6 @@
-document.getElementById("Meetra_Surik_Name").onclick=function (){
-    location.href="meetra_surik.html";
+
+
+
+document.getElementById("lets_go_button").onclick=function (){
+    music.play("menu_sound.wav");
 };
